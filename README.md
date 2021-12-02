@@ -1,13 +1,13 @@
 # Project Name
 order pizza
 ## Project Description
-This project aims at showing making work easier for pizza customers.
+This project aims at making pizza customers easier.
 ### Authors Information
 Tracy Mbone
 
 Software Developer
 ## Setup Instruction
-This project is also found in other entertainment media.
+This project is also found in other  medias.
 ## Technologies Used
 HTML
 
