@@ -1,0 +1,19 @@
+
+  
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container-fluid{
+    text-align: center;
+    height: 630px;
+    background-color:rgb(10, 42, 223);
+    background-size: cover;
+}
+.container h1{
+    text-align: center;
+}
+input{ 
+    width: 400px;
+    height: 30px;
+    
+}
